@@ -1,0 +1,153 @@
+{
+  "button": [
+    "click",
+    "dblclick",
+    "mousedown",
+    "mouseup"
+  ],
+  "a": [
+    "click",
+    "mouseover"
+  ],
+  "div": [
+    "click",
+    "dblclick",
+    "mousedown",
+    "mouseup",
+    "mouseover",
+    "mousemove",
+    "mouseout",
+    "mouseenter",
+    "mouseleave",
+    "keydown",
+    "keypress",
+    "keyup",
+    "copy",
+    "cut",
+    "paste",
+    "wheel",
+    "animationstart",
+    "animationend",
+    "animationiteration",
+    "transitionend"
+  ],
+  "span": [
+    "click",
+    "dblclick",
+    "mousedown",
+    "mouseup",
+    "mouseover",
+    "mousemove",
+    "mouseout",
+    "mouseenter",
+    "mouseleave",
+    "wheel",
+    "animationstart",
+    "animationend",
+    "animationiteration",
+    "transitionend"
+  ],
+  "input": [
+    "click",
+    "dblclick",
+    "mousedown",
+    "mouseup",
+    "keydown",
+    "keypress",
+    "keyup",
+    "change",
+    "input",
+    "focus",
+    "blur",
+    "copy",
+    "cut",
+    "paste",
+    "compositionend",
+    "compositionstart",
+    "compositionupdate"
+  ],
+  "label": [
+    "click"
+  ],
+  "textarea": [
+    "keydown",
+    "keypress",
+    "keyup",
+    "change",
+    "input",
+    "focus",
+    "blur",
+    "copy",
+    "cut",
+    "paste",
+    "compositionend",
+    "compositionstart",
+    "compositionupdate"
+  ],
+  "select": [
+    "change",
+    "focus",
+    "blur"
+  ],
+  "form": [
+    "submit"
+  ],
+  "img": [
+    "abort",
+    "error",
+    "load"
+  ],
+  "video": [
+    "abort",
+    "canplay",
+    "canplaythrough",
+    "durationchange",
+    "emptied",
+    "ended",
+    "error",
+    "loadeddata",
+    "loadedmetadata",
+    "loadstart",
+    "pause",
+    "play",
+    "playing",
+    "progress",
+    "ratechange",
+    "seeked",
+    "seeking",
+    "stalled",
+    "suspend",
+    "timeupdate",
+    "volumechange",
+    "waiting",
+    "load"
+  ],
+  "audio": [
+    "abort",
+    "canplay",
+    "canplaythrough",
+    "durationchange",
+    "emptied",
+    "ended",
+    "error",
+    "loadeddata",
+    "loadedmetadata",
+    "loadstart",
+    "pause",
+    "play",
+    "playing",
+    "progress",
+    "ratechange",
+    "seeked",
+    "seeking",
+    "stalled",
+    "suspend",
+    "timeupdate",
+    "volumechange",
+    "waiting",
+    "load"
+  ],
+  "iframe": [
+    "load"
+  ]
+}
