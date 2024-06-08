@@ -1,0 +1,229 @@
+{
+  "click": [
+    "button",
+    "a",
+    "div",
+    "span",
+    "input",
+    "label"
+  ],
+  "dblclick": [
+    "button",
+    "div",
+    "span",
+    "input"
+  ],
+  "mousedown": [
+    "button",
+    "div",
+    "span",
+    "input"
+  ],
+  "mouseup": [
+    "button",
+    "div",
+    "span",
+    "input"
+  ],
+  "mouseover": [
+    "div",
+    "span",
+    "a"
+  ],
+  "mousemove": [
+    "div",
+    "span"
+  ],
+  "mouseout": [
+    "div",
+    "span"
+  ],
+  "mouseenter": [
+    "div",
+    "span"
+  ],
+  "mouseleave": [
+    "div",
+    "span"
+  ],
+  "keydown": [
+    "input",
+    "textarea",
+    "div"
+  ],
+  "keypress": [
+    "input",
+    "textarea",
+    "div"
+  ],
+  "keyup": [
+    "input",
+    "textarea",
+    "div"
+  ],
+  "change": [
+    "input",
+    "textarea",
+    "select"
+  ],
+  "input": [
+    "input",
+    "textarea"
+  ],
+  "submit": [
+    "form"
+  ],
+  "focus": [
+    "input",
+    "textarea",
+    "select"
+  ],
+  "blur": [
+    "input",
+    "textarea",
+    "select"
+  ],
+  "copy": [
+    "input",
+    "textarea",
+    "div"
+  ],
+  "cut": [
+    "input",
+    "textarea",
+    "div"
+  ],
+  "paste": [
+    "input",
+    "textarea",
+    "div"
+  ],
+  "compositionend": [
+    "input",
+    "textarea"
+  ],
+  "compositionstart": [
+    "input",
+    "textarea"
+  ],
+  "compositionupdate": [
+    "input",
+    "textarea"
+  ],
+  "wheel": [
+    "div",
+    "span"
+  ],
+  "abort": [
+    "img",
+    "video",
+    "audio"
+  ],
+  "canplay": [
+    "video",
+    "audio"
+  ],
+  "canplaythrough": [
+    "video",
+    "audio"
+  ],
+  "durationchange": [
+    "video",
+    "audio"
+  ],
+  "emptied": [
+    "video",
+    "audio"
+  ],
+  "ended": [
+    "video",
+    "audio"
+  ],
+  "error": [
+    "img",
+    "video",
+    "audio"
+  ],
+  "loadeddata": [
+    "video",
+    "audio"
+  ],
+  "loadedmetadata": [
+    "video",
+    "audio"
+  ],
+  "loadstart": [
+    "video",
+    "audio"
+  ],
+  "pause": [
+    "video",
+    "audio"
+  ],
+  "play": [
+    "video",
+    "audio"
+  ],
+  "playing": [
+    "video",
+    "audio"
+  ],
+  "progress": [
+    "video",
+    "audio"
+  ],
+  "ratechange": [
+    "video",
+    "audio"
+  ],
+  "seeked": [
+    "video",
+    "audio"
+  ],
+  "seeking": [
+    "video",
+    "audio"
+  ],
+  "stalled": [
+    "video",
+    "audio"
+  ],
+  "suspend": [
+    "video",
+    "audio"
+  ],
+  "timeupdate": [
+    "video",
+    "audio"
+  ],
+  "volumechange": [
+    "video",
+    "audio"
+  ],
+  "waiting": [
+    "video",
+    "audio"
+  ],
+  "load": [
+    "img",
+    "iframe",
+    "video",
+    "audio"
+  ],
+  "animationstart": [
+    "div",
+    "span"
+  ],
+  "animationend": [
+    "div",
+    "span"
+  ],
+  "animationiteration": [
+    "div",
+    "span"
+  ],
+  "transitionend": [
+    "div",
+    "span"
+  ]
+}

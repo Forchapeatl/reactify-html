@@ -1,0 +1,562 @@
+{
+  "div.classy-navbar-toggler": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){t.toggleClass(\"active\"),d.toggleClass(\"menu-on\")}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.classycloseIcon": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){d.removeClass(\"menu-on\"),t.removeClass(\"active\")}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "span.dd-trigger": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(n){n.preventDefault(),e(this).parent(\"li\").children(\"ul\").stop(!0,!0).slideToggle(c.openCloseSpeed),e(this).parent(\"li\").toggleClass(\"active\")}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "a.search-btn": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function (o) {\n                    o.preventDefault(), e(\"#search-area\").addClass(\"open\"), e('#search-area > form > input[type=\"search\"]').focus();\n                }"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "select": [],
+  "div#search-area": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function (o) {\n                        (o.target != this && \"close\" != o.target.className && 27 != o.keyCode) || e(this).removeClass(\"open\");\n                    }"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "keyup",
+      "handler": {
+        "function_code": "function (o) {\n                        (o.target != this && \"close\" != o.target.className && 27 != o.keyCode) || e(this).removeClass(\"open\");\n                    }"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "button.close": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function (o) {\n                        (o.target != this && \"close\" != o.target.className && 27 != o.keyCode) || e(this).removeClass(\"open\");\n                    }"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "keyup",
+      "handler": {
+        "function_code": "function (o) {\n                        (o.target != this && \"close\" != o.target.className && 27 != o.keyCode) || e(this).removeClass(\"open\");\n                    }"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.home-slides.owl-carousel.owl-theme.owl-responsive--1.owl-loaded": [
+    {
+      "type": "add",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "change",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "changed",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "destroy",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "drag",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "dragged",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "initialized",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "loaded",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mouseout",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mouseover",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "next",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "play",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "prepared",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "prev",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "refresh",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "refreshed",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "remove",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "replace",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "resize",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "stop",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "to",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "translate",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "translated",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-stage": [
+    {
+      "type": "dragstart",
+      "handler": {
+        "function_code": "function(){return!1}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mousedown",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-item": [
+    {
+      "type": "MSAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mozAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "oanimationend",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "webkitAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-item.active": [
+    {
+      "type": "MSAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mozAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "oanimationend",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "webkitAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-item.cloned": [
+    {
+      "type": "MSAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mozAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "oanimationend",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "webkitAnimationEnd",
+      "handler": {
+        "function_code": "function(a){return n().off(a),f.apply(this,arguments)}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-prev": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-next": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.owl-dots": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "a.popup-video": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(d){d.mfpEl=this,b._openClick(d,a,c)}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "div.news-slider.owl-carousel.owl-theme.owl-loaded": [
+    {
+      "type": "add",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "change",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "changed",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "destroy",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "drag",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "dragged",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "initialized",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "loaded",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mouseout",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "mouseover",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "next",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "play",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "prepared",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "prev",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "refresh",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "refreshed",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "remove",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "replace",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "resize",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "stop",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "to",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "translate",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    },
+    {
+      "type": "translated",
+      "handler": {
+        "function_code": "function(){return a.apply(b||this,e.concat(d.call(arguments)))}"
+      },
+      "library": "jQuery"
+    }
+  ],
+  "a.scrolltop": [
+    {
+      "type": "click",
+      "handler": {
+        "function_code": "function () {\n                return e(\"html, body\").animate({ scrollTop: 0 }, 1e3), !1;\n            }"
+      },
+      "library": "jQuery"
+    }
+  ]
+}

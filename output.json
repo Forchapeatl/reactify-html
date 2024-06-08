@@ -1,0 +1,8 @@
+{
+  "button#myButton": [
+    {
+      "type": "click",
+      "description": "function() {\n      if (paragraph.classList.contains('hidden')) {\n        paragraph.classList.remove('hidden');\n        button.textContent = 'Hide';\n      } else {\n        paragraph.classList.add('hidden');\n        button.textContent = 'Toggle';\n      }\n    }"
+    }
+  ]
+}
