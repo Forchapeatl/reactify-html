@@ -1,0 +1,977 @@
+[
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"cd652d82-902b-46fc-ad85-9f051ecc931e\"> <title id=\"cd652d82-902b-46fc-ad85-9f051ecc931e\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"c744156a-41e7-4eb9-b1e4-48fb8700e9ea\"> <title id=\"c744156a-41e7-4eb9-b1e4-48fb8700e9ea\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"c1a1cd09-e97c-4e44-bdce-b828013fd5be\"> <title id=\"c1a1cd09-e97c-4e44-bdce-b828013fd5be\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"580ed415-bbfb-4ecd-ba50-768e86549380\"> <title id=\"580ed415-bbfb-4ecd-ba50-768e86549380\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"4f1405d2-adcf-4d8d-94bb-0d5dfbe3d61c\"> <title id=\"4f1405d2-adcf-4d8d-94bb-0d5dfbe3d61c\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"1e0760c2-7d2c-4585-847f-cccbec4146e1\"> <title id=\"1e0760c2-7d2c-4585-847f-cccbec4146e1\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"717ac060-1933-4cc6-8b60-c81d99f2c543\"> <title id=\"717ac060-1933-4cc6-8b60-c81d99f2c543\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"6c0c8d09-9308-4fff-ba3d-febc4cc19921\"> <title id=\"6c0c8d09-9308-4fff-ba3d-febc4cc19921\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"01d2e5ad-ffd5-4e35-81fa-66a23b42da76\"> <title id=\"01d2e5ad-ffd5-4e35-81fa-66a23b42da76\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"1ab6fe13-682f-44bb-8ee5-a3516a80b088\"> <title id=\"1ab6fe13-682f-44bb-8ee5-a3516a80b088\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"4d39b3f2-e170-4a58-84bb-b964cec1c616\"> <title id=\"4d39b3f2-e170-4a58-84bb-b964cec1c616\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"77dbfb56-076b-4033-a549-efd019e9c186\"> <title id=\"77dbfb56-076b-4033-a549-efd019e9c186\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div id=\"hs-interactives-modal-overlay\" class=\"go1632949049\"></div>",
+    "event": "click",
+    "function": "()=>{if(!Number.isInteger(this.shownModal))return;const e=this.configModel.configs.get(this.shownModal);e&&e.containerStyles.closeOnOverlayClick&&this.closeOverlay(this.shownModal)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"a8c641dd-725b-42fd-98ec-3ce480c4f3e8\"> <title id=\"a8c641dd-725b-42fd-98ec-3ce480c4f3e8\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"1bde03a7-9a2f-4226-a710-e770b4b1657c\"> <title id=\"1bde03a7-9a2f-4226-a710-e770b4b1657c\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"f97fb31d-12cd-49c7-9031-910a41424a44\"> <title id=\"f97fb31d-12cd-49c7-9031-910a41424a44\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"8a04677c-0f78-462f-bad7-4cea31f00c5c\"> <title id=\"8a04677c-0f78-462f-bad7-4cea31f00c5c\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"3513feb8-73cd-4319-bd43-308ebc66e3c6\"> <title id=\"3513feb8-73cd-4319-bd43-308ebc66e3c6\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "abort",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "auxclick",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "auxclick",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "cancel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "canplay",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "canplaythrough",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "click",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "click",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "close",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "contextmenu",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "contextmenu",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "copy",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "copy",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "cut",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "cut",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "drag",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "drag",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragenter",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragenter",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragexit",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragexit",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragleave",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragleave",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragover",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragover",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dragstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "drop",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "drop",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "durationchange",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "emptied",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "encrypted",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "ended",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "error",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "gotpointercapture",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "gotpointercapture",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "input",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "input",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "keydown",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "keydown",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "keypress",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "keypress",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "keyup",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "keyup",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "load",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "loadeddata",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "loadedmetadata",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "loadstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "lostpointercapture",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "lostpointercapture",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mousedown",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mousedown",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mousemove",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mousemove",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mouseout",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mouseout",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mouseover",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mouseover",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mouseup",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "mouseup",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "paste",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "paste",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pause",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "play",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "playing",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointercancel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointercancel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerdown",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerdown",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointermove",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointermove",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerout",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerout",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerover",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerover",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerup",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "pointerup",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "progress",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "ratechange",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "reset",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "reset",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "resize",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "seeked",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "seeking",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "stalled",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "submit",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "submit",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "suspend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "timeupdate",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchcancel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchcancel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "volumechange",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "scroll",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "toggle",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchmove",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "touchmove",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "waiting",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "wheel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "wheel",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "animationend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "animationend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "animationiteration",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "animationiteration",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "animationstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "animationstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dblclick",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "dblclick",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "focusin",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "focusin",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "focusout",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "focusout",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "transitionend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "transitionend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "change",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "change",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "compositionend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "compositionend",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "textInput",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "textInput",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "compositionstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "compositionstart",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "compositionupdate",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div class=\"hbspt-form\" id=\"hbspt-form-1717793254000-3175743933\" data-hs-forms-root=\"true\"></div>",
+    "event": "compositionupdate",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<input>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<input>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<input>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<select><option disabled=\"\" value=\"\">Select language*</option><option value=\"English\">English</option><option value=\"中文\">中文</option></select>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<input>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<input>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<input>",
+    "event": "invalid",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<iframe></iframe>",
+    "event": "load",
+    "function": "function () { [native code] }"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"55d767f4-caa8-46da-87ca-6bf486731308\"> <title id=\"55d767f4-caa8-46da-87ca-6bf486731308\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<form class=\"search-form\" method=\"get\" autocomplete=\"off\" action=\"https://www.cncf.io\" role=\"search\">\n\t\t\t\t\t\t<label for=\"search-bar\" class=\"screen-reader-text\">Search\n\t\t\t\t\t\t\tCNCF</label>\n\t\t\t\t\t\t<input class=\"search-input\" type=\"search\" id=\"search-bar\" value=\"\" name=\"s\" placeholder=\"I'm looking for...\" title=\"Search CNCF site\" autocapitalize=\"off\" spellcheck=\"false\" maxlength=\"98\" required=\"\">\n\t\t\t\t\t\t<input class=\"search-input-button wp-block-button__link has-no-padding\" type=\"submit\" value=\"Search\">\n\t\t\t\t\t</form>",
+    "event": "submit",
+    "function": "()=>e(t)"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"e7f551ee-a440-4c03-96e0-8f187513f366\"> <title id=\"e7f551ee-a440-4c03-96e0-8f187513f366\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"8851740c-97bb-4c2e-8ee9-4f6c9b9f90ff\"> <title id=\"8851740c-97bb-4c2e-8ee9-4f6c9b9f90ff\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"9685a0a3-5872-422c-8c2e-49d4a819b9b4\"> <title id=\"9685a0a3-5872-422c-8c2e-49d4a819b9b4\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<input id=\"firstname-be1b038f-98de-43b5-b211-d5f7bf6510c9\" name=\"firstname\" required=\"\" placeholder=\"First name*\" type=\"text\" class=\"hs-input\" inputmode=\"text\" autocomplete=\"given-name\" value=\"\">",
+    "event": "change",
+    "function": "function(e){return\"undefined\"!=typeof ce&&ce.event.triggered!==e.type?ce.event.dispatch.apply(t,arguments):void 0}"
+  },
+  {
+    "element": "<input id=\"firstname-be1b038f-98de-43b5-b211-d5f7bf6510c9\" name=\"firstname\" required=\"\" placeholder=\"First name*\" type=\"text\" class=\"hs-input\" inputmode=\"text\" autocomplete=\"given-name\" value=\"\">",
+    "event": "input",
+    "function": "e=>{!e.isTrusted&&e.target&&t(e)}"
+  },
+  {
+    "element": "<input id=\"lastname-be1b038f-98de-43b5-b211-d5f7bf6510c9\" name=\"lastname\" required=\"\" placeholder=\"Last name*\" type=\"text\" class=\"hs-input\" inputmode=\"text\" autocomplete=\"family-name\" value=\"\">",
+    "event": "change",
+    "function": "function(e){return\"undefined\"!=typeof ce&&ce.event.triggered!==e.type?ce.event.dispatch.apply(t,arguments):void 0}"
+  },
+  {
+    "element": "<input id=\"lastname-be1b038f-98de-43b5-b211-d5f7bf6510c9\" name=\"lastname\" required=\"\" placeholder=\"Last name*\" type=\"text\" class=\"hs-input\" inputmode=\"text\" autocomplete=\"family-name\" value=\"\">",
+    "event": "input",
+    "function": "e=>{!e.isTrusted&&e.target&&t(e)}"
+  },
+  {
+    "element": "<input id=\"email-be1b038f-98de-43b5-b211-d5f7bf6510c9\" name=\"email\" required=\"\" placeholder=\"Email address*\" type=\"email\" class=\"hs-input\" inputmode=\"email\" autocomplete=\"email\" value=\"\">",
+    "event": "change",
+    "function": "function(e){return\"undefined\"!=typeof ce&&ce.event.triggered!==e.type?ce.event.dispatch.apply(t,arguments):void 0}"
+  },
+  {
+    "element": "<input id=\"email-be1b038f-98de-43b5-b211-d5f7bf6510c9\" name=\"email\" required=\"\" placeholder=\"Email address*\" type=\"email\" class=\"hs-input\" inputmode=\"email\" autocomplete=\"email\" value=\"\">",
+    "event": "input",
+    "function": "e=>{!e.isTrusted&&e.target&&t(e)}"
+  },
+  {
+    "element": "<select id=\"subscription_language_preference-be1b038f-98de-43b5-b211-d5f7bf6510c9\" required=\"\" class=\"hs-input is-placeholder\" name=\"subscription_language_preference\"><option disabled=\"\" value=\"\">Select language*</option><option value=\"English\">English</option><option value=\"中文\">中文</option></select>",
+    "event": "change",
+    "function": "function(e){return\"undefined\"!=typeof ce&&ce.event.triggered!==e.type?ce.event.dispatch.apply(t,arguments):void 0}"
+  },
+  {
+    "element": "<select id=\"subscription_language_preference-be1b038f-98de-43b5-b211-d5f7bf6510c9\" required=\"\" class=\"hs-input is-placeholder\" name=\"subscription_language_preference\"><option disabled=\"\" value=\"\">Select language*</option><option value=\"English\">English</option><option value=\"中文\">中文</option></select>",
+    "event": "input",
+    "function": "e=>{!e.isTrusted&&e.target&&t(e)}"
+  },
+  {
+    "element": "<input name=\"hubspot__c\" class=\"hs-input\" type=\"hidden\" value=\"true\">",
+    "event": "change",
+    "function": "function(e){return\"undefined\"!=typeof ce&&ce.event.triggered!==e.type?ce.event.dispatch.apply(t,arguments):void 0}"
+  },
+  {
+    "element": "<input name=\"hubspot__c\" class=\"hs-input\" type=\"hidden\" value=\"true\">",
+    "event": "input",
+    "function": "e=>{!e.isTrusted&&e.target&&t(e)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"ecc86e4a-c741-41e3-b693-422c316f3149\"> <title id=\"ecc86e4a-c741-41e3-b693-422c316f3149\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"29f9525e-995b-485f-8948-ede5a3ab65b7\"> <title id=\"29f9525e-995b-485f-8948-ede5a3ab65b7\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"d4a1093d-6ab7-45a5-9957-cdbb866395e7\"> <title id=\"d4a1093d-6ab7-45a5-9957-cdbb866395e7\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"ba05bf66-c500-4680-89c6-4985bf8842a9\"> <title id=\"ba05bf66-c500-4680-89c6-4985bf8842a9\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"8d4ec592-7993-4a1d-aa67-2f3a3d71b41e\"> <title id=\"8d4ec592-7993-4a1d-aa67-2f3a3d71b41e\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"cb6befcb-11a3-4d83-8ac9-3398a7a1bb8b\"> <title id=\"cb6befcb-11a3-4d83-8ac9-3398a7a1bb8b\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<img alt=\"\" aria-hidden=\"true\" src=\"https://cdn.usefathom.com/?h=https%3A%2F%2Fwww.cncf.io&amp;p=%2F&amp;r=&amp;sid=YROOQLVN&amp;qs=%7B%7D&amp;cid=19960656\" style=\"position: absolute;\">",
+    "event": "load",
+    "function": "function(){img.parentNode.removeChild(img)}"
+  },
+  {
+    "element": "<img alt=\"\" aria-hidden=\"true\" src=\"https://cdn.usefathom.com/?h=https%3A%2F%2Fwww.cncf.io&amp;p=%2F&amp;r=&amp;sid=YROOQLVN&amp;qs=%7B%7D&amp;cid=19960656\" style=\"position: absolute;\">",
+    "event": "error",
+    "function": "function(){img.parentNode.removeChild(img)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"0ff76ad6-8aac-4ead-808f-183acf3c7b2b\"> <title id=\"0ff76ad6-8aac-4ead-808f-183acf3c7b2b\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"45c33222-01e3-46a3-ad4c-49be6ebe501a\"> <title id=\"45c33222-01e3-46a3-ad4c-49be6ebe501a\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"150ac414-33d9-41a1-98f0-eb8e7b3aeda1\"> <title id=\"150ac414-33d9-41a1-98f0-eb8e7b3aeda1\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"ccca93eb-dde9-497b-b61a-072e13a2bc69\"> <title id=\"ccca93eb-dde9-497b-b61a-072e13a2bc69\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"7bbd6a86-93fd-42c4-8130-93ea98918944\"> <title id=\"7bbd6a86-93fd-42c4-8130-93ea98918944\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"8a49b69e-13e6-45e1-be06-8131994b3524\"> <title id=\"8a49b69e-13e6-45e1-be06-8131994b3524\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"f2f4128d-e2de-44c6-b83d-81a96b8536fc\"> <title id=\"f2f4128d-e2de-44c6-b83d-81a96b8536fc\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"b9b3c71d-d9f8-4b03-a4bb-763ba0e93dc5\"> <title id=\"b9b3c71d-d9f8-4b03-a4bb-763ba0e93dc5\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"d402be22-f20f-4ac7-b282-2d478e1e728c\"> <title id=\"d402be22-f20f-4ac7-b282-2d478e1e728c\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"c90485a6-d820-4453-addd-2a194afc649d\"> <title id=\"c90485a6-d820-4453-addd-2a194afc649d\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"b227433c-1de4-4c40-959f-f40e2df0ad08\"> <title id=\"b227433c-1de4-4c40-959f-f40e2df0ad08\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"e6f56ab8-be49-4ef4-bfa5-c00e8a0903e3\"> <title id=\"e6f56ab8-be49-4ef4-bfa5-c00e8a0903e3\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"b9fe98c2-483f-448c-8760-c274ef2f5d9a\"> <title id=\"b9fe98c2-483f-448c-8760-c274ef2f5d9a\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"e4649e4d-8eb9-41c5-9946-61d6269418b0\"> <title id=\"e4649e4d-8eb9-41c5-9946-61d6269418b0\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"f03ff8e2-3080-4bd1-99b0-f6a0467ee44c\"> <title id=\"f03ff8e2-3080-4bd1-99b0-f6a0467ee44c\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  },
+  {
+    "element": "<div role=\"presentation\" class=\" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right \"> <!--?lit$224933415$--><div role=\"presentation\" class=\" osano-cm-info__info-dialog-header osano-cm-info-dialog-header \"> <p role=\"heading\" aria-level=\"1\" id=\"140bda09-55fe-45a4-88cb-a128a706c53e__label\" class=\" osano-cm-info-dialog-header__header osano-cm-header \"> <!--?lit$224933415$--> </p> <!--?lit$224933415$--> <button class=\" osano-cm-info-dialog-header__close osano-cm-close \"> <!--?lit$224933415$--><svg width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\" role=\"img\" aria-labelledby=\"1819d5bd-af43-4de8-a847-2249e9f0c420\"> <title id=\"1819d5bd-af43-4de8-a847-2249e9f0c420\"><!---->Close Cookie Preferences<!----></title> <line role=\"presentation\" x1=\"2\" y1=\"2\" x2=\"18\" y2=\"18\"></line> <line role=\"presentation\" x1=\"2\" y1=\"18\" x2=\"18\" y2=\"2\"></line> </svg> </button> <!--?lit$224933415$--> </div> <div role=\"presentation\" class=\" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 \"> <!--?lit$224933415$--> </div> </div>",
+    "event": "scroll",
+    "function": "onScroll(e){e.stopPropagation();var t=no.get(e.target)||{};null!=t&&t.activeView&&(t.scrollPositions[\"\".concat(t.activeView)]=e.target.scrollTop)}"
+  }
+]
